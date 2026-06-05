@@ -55,3 +55,13 @@ CodeCoverage/
 *.VisualState.xml
 TestResult.xml
 nunit-*.xml
+/.vs/CLASES_DEV.slnx/DesignTimeBuild/.dtbcache.v2
+/.vs/CLASES_DEV.slnx/FileContentIndex/ca67235c-9afd-451e-95c5-3b5331358ec3.vsidx
+/.vs/CLASES_DEV.slnx/v18/.futdcache.v2
+/.vs/CLASES_DEV.slnx/v18/.suo
+/.vs/CLASES_DEV.slnx/v18/DocumentLayout.json
+/.vs/ProjectEvaluation
+/.vs/ProjectEvaluation/clases_dev.metadata.v10.bin
+/.vs/ProjectEvaluation/clases_dev.projects.v10.bin
+/.vs/ProjectEvaluation/clases_dev.strings.v10.bin
+/src/.vs/CLASES_DEV.slnx/FileContentIndex/cf8785b4-2ccb-4d15-8dc7-30c3b978704b.vsidx
