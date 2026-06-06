@@ -13,3 +13,18 @@ int edad3=int.Parse(num3);
 
 int respuesta = edad1+edad2+edad3;
 Console.WriteLine("La respuesta es:"+ respuesta);
+
+/*================================ TAREA PARA LA CASA=======================
+
+Para una primera o segunda clase, 
+un ejercicio un poco más complejo y muy útil es un calculador de promedio de notas. 
+Combina variables, entrada de datos, operaciones matemáticas y salida de resultados.
+
+Algoritmo: Promedio de 4 notas
+Paso a paso
+Pedir el nombre del alumno.
+Pedir 4 notas.
+Calcular el promedio.
+Mostrar el nombre y el promedio.
+
+*/
