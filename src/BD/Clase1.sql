@@ -32,3 +32,5 @@ CREATE TABLE Nota (
 Select id,dni,nombre,edad,sexo,correoElectronico,grado_ciclo,seccion,facebook FROm Alumnos;
 Select * from Materia
 Select * from nota
+
+--HOLa DANiela te hice la chamba
